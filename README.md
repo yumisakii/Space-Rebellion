@@ -6,9 +6,7 @@ Space Rebellion is a 2D horizontal shoot 'em up, created as a student project at
 
 ## 🚀 Gameplay Demo
 
-![Gameplay demonstration of Space Rebellion, showing the player ship, enemies, and shooting mechanics.](placeholder.gif)
-
-*(This is a placeholder: Follow the guide below to create and insert your gameplay GIF!)*
+![Gameplay demonstration of Space Rebellion, showing the player ship, enemies, and shooting mechanics.](space_rebellion_gameplay.gif)
 
 ---
 
@@ -26,11 +24,9 @@ Space Rebellion is a 2D horizontal shoot 'em up, created as a student project at
 
 As part of the G.Tech development team, my specific contributions to this project were:
 
-* **TODO:** *(Ex: "Implemented the player's character controller and shooting mechanics.")*
-* **TODO:** *(Ex: "Designed and coded the 'Enemy Type A' AI behavior.")*
-* **TODO:** *(Ex: "Built the main menu and the audio management system.")*
-
-*(**Note :** C'est la section la plus importante. Tu *dois* la remplir pour expliquer ce que *toi*, Jonathan, tu as fait sur ce projet de groupe.)*
+* **Implemented the player's core shooting mechanics**, including the primary weapon fire.
+* **Designed and coded the special missile ability**, including its timer-based cooldown system.
+* **Programmed the spawning and behavior of falling loot crates** that provide bonuses to the player.
 
 ---
 
